@@ -53,7 +53,7 @@ struct Cliente{
 
             /*if(lleno(*silla)!= 1000){
                 (*sofa)[aux]=NULL;
-                cout<<"me sente ¡Servicio!\n";
+                cout<<"me sente Â¡Servicio!\n";
             }*/
 
         }
@@ -73,7 +73,7 @@ struct Cliente{
                 Sleep(500);
             }
             (*sofa)[aux3]=NULL;
-            cout<<"me sente ¡Servicio!\n";
+            cout<<"me sente Â¡Servicio!\n";
 
         }
         else{
